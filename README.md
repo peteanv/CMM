@@ -1,2 +1,2 @@
-# RenameIt
+# CMM
 CMM - Car Maintenance Manager
